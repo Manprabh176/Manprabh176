@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manprabh176
 - 👀 I’m interested in AR VR 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and ML DL 
 - 💞️ I’m looking to collaborate on AR VR ML os/non os programs
 - 📫 How to reach me : here's my gmail: manprabhsinghraina601@gmail.com
 
